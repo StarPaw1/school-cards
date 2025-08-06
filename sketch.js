@@ -7,7 +7,7 @@ function preload(){
 
 function setup () {
 createCanvas(windowWidth,windowHeight*5);
-image(card1,50,50,288,400)
+image(card1,50,50,320,400)
 
 
 }
