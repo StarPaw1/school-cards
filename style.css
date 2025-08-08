@@ -16,3 +16,13 @@ font-family:sans-serif;
   
   
 }
+#anime {
+position:absolute;
+left:40px;
+top:20px;
+font-size:15px;
+  font-family:"cute",cursive;
+  background-color:rgb(121, 252, 131);
+
+  
+}
